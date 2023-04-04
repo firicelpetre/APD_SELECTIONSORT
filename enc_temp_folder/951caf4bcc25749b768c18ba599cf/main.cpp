@@ -25,7 +25,7 @@ void selectionSort(long arr[], int n) {
 
 int main() {
      int n ;
-    long arr[100000];
+    long arr[10000];
     test_generator();
     load_test(arr, &n);
     
